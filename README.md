@@ -1,0 +1,2 @@
+# CoinbaseMiddleWare
+Middleware for Coinbase
