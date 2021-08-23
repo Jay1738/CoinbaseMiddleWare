@@ -1,2 +1,2 @@
-# CoinbaseMiddleWare
-Middleware for Coinbase
+# CoinbaseApp
+Reporting for Coinbase
